@@ -1,0 +1,16 @@
+package DriverScripts;
+
+import java.io.FileInputStream;
+
+import org.openqa.selenium.WebDriver;
+
+public class Keyword 
+{
+	public static void main(String[] args)
+	{
+		String xlpath="F:\\Saurmi_Sneha\\Project\\src\\testData\\Keyword.xlsx";
+		FileInputStream fi=new FileInputStream(xlpath);
+		
+	}
+
+}

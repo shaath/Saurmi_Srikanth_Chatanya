@@ -1,0 +1,14 @@
+package trstNG;
+
+import org.testng.annotations.Test;
+
+public class BasicAnnotattionEg
+{
+	@Test
+	public void function1()
+	{
+		System.out.println("This is Function1 code");
+	}
+	
+
+}

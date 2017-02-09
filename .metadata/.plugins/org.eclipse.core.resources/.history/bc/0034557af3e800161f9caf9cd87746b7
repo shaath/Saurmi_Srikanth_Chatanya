@@ -1,0 +1,15 @@
+package xlops;
+
+import java.io.FileInputStream;
+
+public class EmpregTest 
+{
+
+	public static void main(String[] args)
+	{
+		String xlpath="F:\\Saurmi_Sneha\\Project\\src\\testData\\EmpRegData.xlsx";
+		FileInputStream fi=new FileInputStream(xlpath);
+
+	}
+
+}

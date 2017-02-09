@@ -1,0 +1,13 @@
+package trstNG;
+
+import org.testng.annotations.Test;
+
+public class EmpregTest extends TestNGMaster
+{
+	@Test
+	public void Empreg()
+	{
+		driver.
+	}
+
+}
